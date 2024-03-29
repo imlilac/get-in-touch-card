@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/imlilac/get-in-touch-card/blob/main/logo%20(2).jpg)
 
-Designing a simple instagram card using HTML5 & CSS.
+Designing a get in touch card using HTML5 & CSS.
 
 ## Table of contents
 
