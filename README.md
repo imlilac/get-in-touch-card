@@ -1,6 +1,6 @@
 # Instagram Post
 
-![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
+![logo](https://github.com/imlilac/get-in-touch-card/blob/main/logo%20(2).jpg)
 
 Designing a simple instagram card using HTML5 & CSS.
 
@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/imlilac/instagram-card/blob/main/img/screen-1.png)
+![](https://github.com/imlilac/get-in-touch-card/blob/main/Screenshot%202024-03-29%20232349.png)
 
 ## My process
 
