@@ -1,4 +1,4 @@
-# Instagram Post
+# Get In Touch Card
 
 ![logo](https://github.com/imlilac/get-in-touch-card/blob/main/logo%20(2).jpg)
 
